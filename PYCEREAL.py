@@ -182,10 +182,7 @@ def pyemail():
     message["To"] = receiver_email
 
     text = """\
-    Hi,
-    How are you?
-    Real Python has many great tutorials:
-    www.realpython.com"""
+ Reserva feita com sucesso
     html = """\
     <html>
       <body>
